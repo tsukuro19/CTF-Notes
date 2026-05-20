@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "writeup-template"
             }
+          },
+          {
+            "id": "c19571154fd8c295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Templates/writeup-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "writeup-template"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,9 +179,19 @@
               "icon": "lucide-list",
               "title": "Outline of writeup-template"
             }
+          },
+          {
+            "id": "4211d95359065799",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,8 +211,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2d2582e440bbb7a",
+  "active": "c19571154fd8c295",
   "lastOpenFiles": [
+    "Dashboard.md.md",
     "00-Templates/writeup-template.md",
     "04-CTF-Events",
     "03-Tools",
