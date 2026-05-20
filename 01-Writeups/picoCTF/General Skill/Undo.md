@@ -23,16 +23,16 @@ $ nc <server_of_challenge> <port_of_challenge>
 
 ### Step 2: 
 -After accessing the instance, we will answer a series of questions in steps provided by the instance, which is this challenge:
-![](05-Assets/Pasted%20image%2020260520235041.png)
-![](05-Assets/Pasted%20image%2020260520235257.png)
-![](05-Assets/Pasted%20image%2020260521001615.png)
-![](05-Assets/Pasted%20image%2020260521001824.png)
-![](05-Assets/Pasted%20image%2020260521002003.png)
+![](../../../05-Assets/Pasted%20image%2020260520235041.png)
+![](../../../05-Assets/Pasted%20image%2020260520235257.png)
+![](../../../05-Assets/Pasted%20image%2020260521001615.png)
+![](../../../05-Assets/Pasted%20image%2020260521001824.png)
+![](../../../05-Assets/Pasted%20image%2020260521002003.png)
 ## Flag
 
 `FLAG{REDACTED}`
 
 ## Takeaway
-- This article mainly focuses on text manipulation techniques in Linux; you can find a list of text manipulation techniques here.[Linux-Text-Manipulation](02-Techniques/Linux-Text-Manipulation.md)
+- This article mainly focuses on text manipulation techniques in Linux; you can find a list of text manipulation techniques here.[Linux-Text-Manipulation](../../../02-Techniques/Linux-Text-Manipulation.md)
 
 
