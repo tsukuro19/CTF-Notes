@@ -1,10 +1,12 @@
 ---
-platform: picoCTF # picoCTF / HTB / CTFtime
-category: Forensics # Web / Crypto / Forensics / Pwn / Rev
+platform: picoCTF
+category: General Skill
 difficulty: Medium
 points: 300
 date: 2024-03-25
-tags: [ctf, forensics, pcap, smtp]
+tags:
+  - ctf
+  - general_skill
 solved: true
 ---
 
