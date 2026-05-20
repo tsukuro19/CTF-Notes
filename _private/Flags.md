@@ -1,4 +1,0 @@
-## PicoCTF
-| Problem | Flag |
-|:------- |:---- |
-| Undo    |      |
