@@ -70,12 +70,14 @@ git commit -m "push flag as root"
 git branch
 ```
 - Output:
+
 ![](05-Assets/Pasted%20image%2020260522210011.png)
 - The default branch was master, not main, so we pushed to master:
 ```bash
 git push origin master
 ```
 - Output
+
 ![](05-Assets/Pasted%20image%2020260522210159.png)
 
 ## Flag
