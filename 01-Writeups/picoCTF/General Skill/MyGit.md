@@ -9,7 +9,7 @@ tags:
   - general_skill
 solved: true
 ---
-# Challenge Name: Undo
+# Challenge Name: MyGit
 ## Challenge Description
 I have built my own Git server with my own rules!
 ## Initial Analysis
@@ -89,7 +89,7 @@ git push origin master
 
 ## Tools Used
 - In this lesson, we will mostly learn about Git operations when cloning to a repository, as well as some basic errors that can occur when we impersonate a user in a repository.
-- Can read more about git commands here:[Git-Commands-Penetration-Tester](../../../02-Techniques/Git-Commands-Penetration-Tester.md)
+- Can read more about git commands here:[Git-Commands-Penetration-Tester](../../../03-Tools/Git-Commands-Penetration-Tester.md)
 
 ## Takeaway
 - In this lesson, we learned that sometimes Git checks user.name and user.email locally. If the repository doesn't authenticate this, it becomes a vulnerable target for an attack.

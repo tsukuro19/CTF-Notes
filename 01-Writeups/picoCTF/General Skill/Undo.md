@@ -33,6 +33,6 @@ $ nc <server_of_challenge> <port_of_challenge>
 `FLAG{REDACTED}`
 
 ## Takeaway
-- This article mainly focuses on text manipulation techniques in Linux; you can find a list of text manipulation techniques here.[Linux-Text-Manipulation](../../../02-Techniques/Linux-Text-Manipulation.md)
+- This article mainly focuses on text manipulation techniques in Linux; you can find a list of text manipulation techniques here.[Linux-Text-Manipulation](../../../03-Tools/Linux-Text-Manipulation.md)
 
 

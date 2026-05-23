@@ -380,11 +380,3 @@ git log --all --full-history -- "**/id_rsa"
 git add -f .env
 ```
 
----
-
-> [!info] Legal Reminder  
-> These techniques are for **authorized penetration testing and security research only**. Always obtain written permission before testing any system.
-
----
-
-_Generated for Obsidian — compatible with Dataview, callouts, and internal links._
