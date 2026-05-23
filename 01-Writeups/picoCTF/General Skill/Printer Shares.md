@@ -52,6 +52,7 @@ smb: \>
 ls
 ```
 - Ouput
+
 ![](../../../05-Assets/Pasted%20image%2020260523160333.png)
 ### Step 5: Download and Read the Flag
 - We retrieved the flag file:
