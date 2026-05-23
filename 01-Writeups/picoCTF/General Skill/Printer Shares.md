@@ -84,3 +84,4 @@ cat flag.txt
 - Using smbclient allows us to access the public share of the smb protocol anonymously.
 - nc allows us to verify if ports are still active but cannot connect to the smb protocol.
 - Always try to list potential shares using -L before attempting an exploit.
+- Read more about SMB attack vectors: [SMB-attack-vectors](../../../02-Techniques/SMB-attack-vectors.md)
